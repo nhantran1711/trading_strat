@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+pandas_market_calendars>=4.3
+pyarrow>=15.0
+alpaca-py>=0.30
+python-dotenv>=1.0
+statsmodels>=0.14
+pytest>=8.0
+jupyter>=1.0
